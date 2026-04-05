@@ -1,4 +1,5 @@
 HOUSE PRICE PREDICTION
+
 This project walks through a complete machine learning pipeline to predict residential house prices using the California Housing dataset, 
 which contains 20,640 records across 9 features including location coordinates, housing age, room counts, household size, and median income. 
 The workflow covers data inspection, exploratory data analysis (EDA), feature engineering, preprocessing, and model training. 
